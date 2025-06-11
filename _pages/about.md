@@ -1,8 +1,16 @@
 ---
-permalink: /about/
-title: "About"
+layout: splash
+title: "Welcome"
+permalink: /
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.3"
+  overlay_image: /assets/images/banner.jpg
+  actions:
+    - label: "View Achievements"
+      url: "/achievements/"
+excerpt: "Cybersecurity enthusiast exploring digital defense, threat detection, and secure software development."
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Welcome! I’m Brian, a cybersecurity enthusiast who loves solving technical puzzles, analyzing threats, and diving into hands-on labs.  
+Explore my projects, walkthroughs, and progress through platforms like TryHackMe, Hack The Box, and more.

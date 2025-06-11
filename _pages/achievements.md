@@ -13,7 +13,7 @@ Welcome to my achievements page! Here I showcase progress, completed modules, an
 
 ## 🔐 TryHackMe
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/YOUR_USERNAME.png)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Bucho.Brian.png)
 
 - ✅ [Complete Beginner](https://tryhackme.com/path/intro)
 - ✅ [Pre-Security](https://tryhackme.com/path/outline/presecurity)

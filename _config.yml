@@ -17,7 +17,7 @@ title: Brian Kabucho
 email: brianbucho@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  "A digital lab for exploring cybersecurity, tinkering with code, and sharing what I learn along the way.Welcome to my personal space on the web — where I dive into digital defense, break things (on purpose), build projects (for fun), and document the journey."
-twitter_username: "@Brian__KK"
+twitter_username: "@Brian___KK"
 github_username: BuchoBrian
 minimal_mistakes_skin: neon
 search: true
@@ -65,7 +65,7 @@ author:
       url: "https:/linkedin.com/in/brian-kabucho/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/Brian__KK"
+      url: "https://twitter.com/Brian___KK"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/BuchoBrian"
@@ -74,7 +74,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/Brian__KK"
+      url: "https://twitter.com/Brian___KK"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/BuchoBrian"

@@ -15,7 +15,7 @@ Welcome to my achievements page! Here I showcase progress, completed modules, an
 
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Bucho.Brian.png)
 
-- ✅ [Complete Beginner](https://tryhackme.com/path/intro)
+- ✅ [Complete Beginner](https://tryhackme.com/certificate/THM-P04Q4UFF4U)
 - ✅ [Pre-Security](https://tryhackme.com/path/outline/presecurity)
 - ✅ [Cyber Defense](https://tryhackme.com/path/outline/cyberdefense)
 - ...and more!

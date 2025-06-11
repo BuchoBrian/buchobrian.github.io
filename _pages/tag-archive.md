@@ -1,6 +1,6 @@
 ---
-title: "Posts by Tag"
-permalink: /tags/
-layout: tags
+title: "Achievements"
+permalink: /achievements/
+layout: single
 author_profile: true
 ---

@@ -35,6 +35,7 @@ Welcome to my achievements page! Here I showcase progress, completed modules, an
 ## 🔍 Blue Team Labs Online (BTLO)
 
 - 🛡️ Completed Investigations: `XX+`
+- (https://blueteamlabs.online/public/user/329d620442970383194ddf)
 - ✅ [SOC Level 1 Path](https://blueteamlabs.online/)
 - ✅ [Threat Hunting Fundamentals](#)
 

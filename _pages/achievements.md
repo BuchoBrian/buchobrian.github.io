@@ -15,21 +15,19 @@ Welcome to my achievements page! Here I showcase progress, completed modules, an
 
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Bucho.Brian.png)
 
-- ✅ [Complete Beginner](https://tryhackme.com/certificate/THM-P04Q4UFF4U)
-- ✅ [Pre-Security](https://tryhackme.com/path/outline/presecurity)
-- ✅ [Cyber Defense](https://tryhackme.com/path/outline/cyberdefense)
+- ✅ [DROP your weapon - SQL Injection](https://academy.hackthebox.com/achievement/badge/c771d713-3864-11ef-b18dbea50ffe6cb4)
+- ✅ [Combine the modules - Metasploit](https://academy.hackthebox.com/achievement/badge/500d8c50-2dae-11ef-b18dbea50ffe6cb4)
+- ✅ [Light in the dark](https://academy.hackthebox.com/achievement/badge/c4552470-270c-11ef-b18d-bea50ffe6cb4)
 - ...and more!
 
 ---
 
 ## 🧪 Hack The Box
 
-![HTB Badge](https://www.hackthebox.com/badges/YOUR_USERNAME)
-
-- 🟢 Boxes Rooted: `XX+`
-- ✅ Challenges Solved: `XX`
-- ✅ [Starting Point Track](https://app.hackthebox.com/starting-point)
-
+- ✅ [DROP your weapon - SQL Injection](https://academy.hackthebox.com/achievement/badge/c771d713-3864-11ef-b18dbea50ffe6cb4)
+- ✅ [Combine the modules - Metasploit](https://academy.hackthebox.com/achievement/badge/500d8c50-2dae-11ef-b18dbea50ffe6cb4)
+- ✅ [Light in the dark](https://academy.hackthebox.com/achievement/badge/c4552470-270c-11ef-b18d-bea50ffe6cb4)
+...and more!
 ---
 
 ## 🔍 Blue Team Labs Online (BTLO)

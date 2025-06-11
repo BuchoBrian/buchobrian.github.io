@@ -61,8 +61,8 @@ author:
   bio    : "Cybersecurity enthusiast with a knack for code and a curiosity that doesn’t quit - breaking, building, and learning along the way."
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
-      url: "https:/linkedin.com/in/brian-kabucho/"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/brian-kabucho/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Brian___KK"

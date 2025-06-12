@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-layout: single
+layout: posts
 permalink: /publications/
 author_profile: true
 taxonomy: category

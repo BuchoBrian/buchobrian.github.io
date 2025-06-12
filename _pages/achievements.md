@@ -40,7 +40,7 @@ Welcome to my achievements page! Here I showcase progress, completed modules, an
 ## 🛠️ Other Platforms
 
 ### 🎯 pwn.college
-- [![White belt](/assets/images/pwncollege.png)](https://pwn.college/hacker/97867)
+- [![White belt](/assets/images/pwncollege.jpg)](https://pwn.college/hacker/97867)
 
 
 ## 📜 Certificates & Milestones

@@ -1,8 +1,8 @@
 ---
 title: "Honeypot Network Project"
 date: 2025-06-11
-categories: 
-  - cyber-security
+collection: 
+  - cybersecurity
 tags: 
   - honeypot
   - logging

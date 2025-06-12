@@ -2,13 +2,12 @@
 title: "Microsoft SC-900: Certified!"
 date: 2025-06-11
 categories: 
-  - cyber-security
+  - publications
 tags: 
   - certification
   - microsoft
+  - SC-900
   - fundamentals
-  - identity
-  - cloud-security
 layout: single
 author_profile: true
 read_time: true
@@ -60,7 +59,7 @@ This certification helped me:
 ## 🎓 Credential
 
 > 📜 **Issued by:** Microsoft  
-> 🔗 [Verify on Credly](https://www.credly.com) *(https://learn.microsoft.com/en-us/users/briankamaukabucho-3917/credentials/826bb90d204056c3)*  
+> 🔗 [View the certificate](https://learn.microsoft.com/en-us/users/briankamaukabucho-3917/credentials/826bb90d204056c3)
 > 🗓️ **Date:** May 16, 2025
 
 ---

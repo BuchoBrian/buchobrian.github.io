@@ -1,7 +1,7 @@
 ---
 title: "Cyber Security"
-permalink: /cyber/
 layout: categories
+permalink: /cyber/
 author_profile: true
 taxonomy: category
 category: cyber-security

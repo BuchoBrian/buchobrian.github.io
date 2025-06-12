@@ -1,7 +1,7 @@
 ---
 title: "Cyber Security"
 permalink: /cyber/
-layout: single
+layout: tag
 author_profile: true
 taxonomy: category
 category: cyber-security

@@ -2,7 +2,7 @@
 title: "Microsoft SC-900: Certified!"
 date: 2025-06-11
 categories: 
-  - blog
+  - Blog
 tags: 
   - certification
   - microsoft

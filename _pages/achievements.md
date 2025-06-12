@@ -40,16 +40,16 @@ Welcome to my achievements page! Here I showcase progress, completed modules, an
 ## 🛠️ Other Platforms
 
 ### 🎯 pwn.college
-- [White belt](https://pwn.college/hacker/97867)
+- [![White belt](/assets/images/pwncollege.png)](https://pwn.college/hacker/97867)
 
 
 ## 📜 Certificates & Milestones
 
 | Date       | Platform     | Certification / Milestone                  |
 |------------|--------------|--------------------------------------------|
-| 2024-11-10 | TryHackMe    | Advent of Cyber 2024                       |
-| 2025-01-05 | TryHackMe    | Advent of Cyber 2023                       |
-| 2025-03-22 | BTLO         | SOC Level 1 Path Complete                  |
+| 2024-12-24 | TryHackMe    | Advent of Cyber 2024                       |
+| 2024-08-28 | Cyber Shujaa | Security Analyst                           |
+| 2023-12-23 | TryHackMe    | Advent of Cyber 2023                       |
 
 ---
 

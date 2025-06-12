@@ -82,29 +82,28 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https:/linkedin.com/in/brian-kabucho/"
 
-defaults:
+#defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: splash
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  #   path: ""
+  #    type: posts
+  #  values:
+  #    layout: splash
+  #    author_profile: true
+  #    read_time: true
+  #    comments: true
+  #    share: true
+  #    related: true
   # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: splash
-      author_profile: true
+  #- scope:
+  #    path: "_pages"
+  #    type: pages
+  #  values:
+  #    layout: splash
+  #    author_profile: true
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+#category_archive:
+#  type: liquid
+#  path: /categories/
+#tag_archive:
+#  type: liquid
+#  path: /tags/

@@ -82,6 +82,12 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https:/linkedin.com/in/brian-kabucho/"
 
+collections:
+  cybersecurity:
+    output: true
+    permalink: /cybersecurity/:name/
+
+
 #defaults:
   # _posts
   #   path: ""

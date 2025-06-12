@@ -1,5 +1,5 @@
 ---
-title: "Publications & Certifications"
+title: "Publications"
 layout: category
 permalink: /publications/
 author_profile: true

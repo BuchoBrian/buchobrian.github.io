@@ -16,6 +16,7 @@ header:
       url: "/publications/"
 excerpt: "Cybersecurity enthusiast exploring digital defense, threat detection, and secure software development."
 ---
+![My Photo](/assets/images/bio-photo.jpg){: .align-left .bio-image }
 
 Welcome! I’m Brian, a cybersecurity enthusiast who loves solving technical puzzles, analyzing threats, and diving into hands-on labs.  
 Explore my projects, walkthroughs, and progress through platforms like TryHackMe, Hack The Box, and more.

@@ -1,6 +1,6 @@
 ---
 title: "Cyber Security"
-layout: single
+layout: posts
 permalink: /cyber/
 author_profile: true
 taxonomy: category

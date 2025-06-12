@@ -5,5 +5,7 @@ main:
     url: /publications/
   - title: "Achievements"
     url: /achievements/
+  - title: "Resume"
+    url: /resume/
   - title: "Home"
     url: /
